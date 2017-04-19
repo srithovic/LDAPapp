@@ -1,0 +1,34 @@
+sys admin/users
+
+css pour users
+
+interface searchbar unique (identifie les différents besoins)
+
+chart maker LDAP organigramme (benchmarking, plus refaire tous les design)
+org chart (ping board like)
+
+joomlah template ?
+
+###############################
+
+Fonctionnalités nécessaires :
+-----------------------------
+-Systeme users/password basé sur LDAP identité
+-Organigramme
+-Searchbar GoogleLike (auto completion) 
+-Consulter fiche contact
+-Liste quand on passe la souris dessus ca affiche une preview du contact (photo infos principales)
+-Add/Modify/Suppr (admin)
+-Intel peut etre modifié par le groupe manager par exemple
+-Chaque user peut modifier ses propres informations (interface réduite)
+-Organigramme (pouvoir déplacer les éléments, afficher, et exporter (jpg, html etc)
+-Systeme de communauté (groupe google +) (recherches)
+
+###############################
+
+Questions :
+-----------
+-Filtrer les criteres au niveau de la recherche ou des résultats ?
+-Organigramme -> Personnes d'un service en dessous du service ou ca ouvre un nouveau pop up avec le service défini de son personnel.
+-Systeme de grade (combien ?)
+-Charte graphique
